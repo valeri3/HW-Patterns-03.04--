@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dz5Patterns", "Dz5Patterns\Dz5Patterns.vcxproj", "{C63348C2-50E5-45C0-B538-989C94DFD9B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C63348C2-50E5-45C0-B538-989C94DFD9B3}.Debug|x64.ActiveCfg = Debug|x64
+		{C63348C2-50E5-45C0-B538-989C94DFD9B3}.Debug|x64.Build.0 = Debug|x64
+		{C63348C2-50E5-45C0-B538-989C94DFD9B3}.Debug|x86.ActiveCfg = Debug|Win32
+		{C63348C2-50E5-45C0-B538-989C94DFD9B3}.Debug|x86.Build.0 = Debug|Win32
+		{C63348C2-50E5-45C0-B538-989C94DFD9B3}.Release|x64.ActiveCfg = Release|x64
+		{C63348C2-50E5-45C0-B538-989C94DFD9B3}.Release|x64.Build.0 = Release|x64
+		{C63348C2-50E5-45C0-B538-989C94DFD9B3}.Release|x86.ActiveCfg = Release|Win32
+		{C63348C2-50E5-45C0-B538-989C94DFD9B3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBD5461E-4EE7-41CB-90E8-CAFCB4B00867}
+	EndGlobalSection
+EndGlobal
